@@ -1,4 +1,4 @@
-## Loan Approval System
+## Loan Approval Prediction System
 
 ## Project Overview
 The Loan Approval System is a machine learning project aimed at predicting whether an applicant will receive a loan based on various factors such as income, credit history, and other attributes.
