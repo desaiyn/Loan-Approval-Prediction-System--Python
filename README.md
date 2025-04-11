@@ -31,10 +31,7 @@ The Loan Approval System is a machine learning project aimed at predicting wheth
 - The Naive Bayes model outperformed other classification models with an accuracy of **83%**.
 - Key factors influencing loan approval include income, credit history, and loan amount.
 
-## Future Enhancements
-- Improve accuracy by tuning hyperparameters or using ensemble learning.
-- Incorporate additional features for better predictive performance.
-- Deploy the model as a web application for real-time loan approval predictions.
+
 
 
 
